@@ -56,7 +56,7 @@ class NextButtonWidget extends StatelessWidget {
             label,
             style: GoogleFonts.notoSans(
               fontWeight: FontWeight.w600,
-              fontSize: 15,
+              fontSize: 20,
               color: fontColor,
             ),
           )),
